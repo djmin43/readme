@@ -9,7 +9,7 @@ add "##" to bold
 ## italics
 
 add "_" before and after of content
-\_hello world_
+hello world_
 
 ## bullet points
 
@@ -35,4 +35,3 @@ add "```sh" before and after (remove sh after)
 ```sh
 yarn add typescript
 ```
-
