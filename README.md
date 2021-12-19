@@ -8,8 +8,8 @@ add "##" to bold
 
 ## italics
 
-add "\_" before and after of content
-\_hello world
+add "_" after
+hello world_
 
 ## bullet points
 
